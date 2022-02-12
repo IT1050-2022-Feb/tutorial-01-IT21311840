@@ -9,7 +9,7 @@ This week we will revisit writing C programs.  In IT1050 the programming languag
 
 ## Exercise 1 - Calculations
 
-Write a C program to input marks of two subjects. Calculate and print the average of the two marks.
+Write a C program to input marks of two subjects. 5Calculate and print the average of the two marks.
 
 Program File - [Tute01.c](Tute01.c)
  
